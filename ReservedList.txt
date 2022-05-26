@@ -1,0 +1,2 @@
+ss,R006,Single,04/08/2021,04/09/2021,04/22/2021,140,1820,Wifi-Kitchen-Allow Alcohol
+ss,R016,Single,04/08/2021,04/10/2021,04/22/2021,140,1680,Wifi-AC-Allow smoke

@@ -1,0 +1,501 @@
+R001,Single,200,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R002,Single,140,AC-Allow smoke-Food and beverage
+R003,Single,200,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R004,Single,180,Wifi-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R005,Single,180,Wifi-AC-Kitchen-Food and beverage-Allow Alcohol
+R006,Single,140,Wifi-Kitchen-Allow Alcohol
+R007,Single,200,Massage-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R008,Single,120,Kitchen-Allow smoke
+R009,Single,180,Massage-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R010,Single,160,Wifi-Massage-Food and beverage-Pets room
+R011,Single,160,Wifi-Kitchen-Allow smoke-Pets room
+R012,Single,180,Wifi-Massage-AC-Allow Alcohol-Pets room
+R013,Single,160,Wifi-Massage-AC-Kitchen
+R014,Single,100,Allow Alcohol
+R015,Single,160,Wifi-AC-Kitchen-Food and beverage
+R016,Single,140,Wifi-AC-Allow smoke
+R017,Single,200,Massage-AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R018,Single,140,Kitchen-Food and beverage-Allow Alcohol
+R019,Single,140,Kitchen-Allow smoke-Pets room
+R020,Single,120,Wifi-Pets room
+R021,Single,160,Wifi-Kitchen-Allow smoke-Food and beverage
+R022,Single,140,Wifi-Kitchen-Pets room
+R023,Single,160,Massage-Kitchen-Allow Alcohol-Pets room
+R024,Single,180,Wifi-AC-Kitchen-Allow smoke-Food and beverage
+R025,Single,160,Wifi-Massage-Kitchen-Allow Alcohol
+R026,Single,220,Wifi-Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R027,Single,140,Massage-Kitchen-Food and beverage
+R028,Single,120,AC-Kitchen
+R029,Single,140,AC-Food and beverage-Pets room
+R030,Single,200,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R031,Double,140,AC-Allow Alcohol
+R032,Double,180,Wifi-Massage-AC-Allow Alcohol
+R033,Double,180,Wifi-Massage-AC-Kitchen
+R034,Double,160,Wifi-Allow smoke-Pets room
+R035,Double,180,Massage-Kitchen-Allow smoke-Food and beverage
+R036,Double,160,Kitchen-Allow smoke-Food and beverage
+R037,Double,200,Wifi-Massage-AC-Food and beverage-Allow Alcohol
+R038,Double,220,Wifi-Massage-AC-Kitchen-Food and beverage-Allow Alcohol
+R039,Double,140,Massage-AC
+R040,Double,200,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R041,Double,160,AC-Kitchen-Food and beverage
+R042,Double,160,Wifi-AC-Pets room
+R043,Double,160,AC-Kitchen-Allow Alcohol
+R044,Double,180,Wifi-Massage-Food and beverage-Allow Alcohol
+R045,Double,180,Wifi-AC-Allow Alcohol-Pets room
+R046,Double,140,Allow smoke-Allow Alcohol
+R047,Double,180,Wifi-AC-Allow smoke-Pets room
+R048,Double,180,Massage-Food and beverage-Allow Alcohol-Pets room
+R049,Double,160,AC-Kitchen-Allow smoke
+R050,Double,180,Massage-AC-Kitchen-Allow smoke
+R051,Double,200,Wifi-Massage-Allow smoke-Food and beverage-Allow Alcohol
+R052,Double,160,Kitchen-Food and beverage-Pets room
+R053,Double,140,Wifi-Pets room
+R054,Double,200,Wifi-Massage-AC-Food and beverage-Pets room
+R055,Double,180,Wifi-Massage-Kitchen-Food and beverage
+R056,Double,140,Wifi-Food and beverage
+R057,Double,180,Massage-AC-Kitchen-Allow smoke
+R058,Double,180,Massage-AC-Allow smoke-Pets room
+R059,Double,160,Wifi-Massage-AC
+R060,Double,160,Massage-Food and beverage-Pets room
+R061,Double,220,Massage-AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R062,Double,180,Massage-Kitchen-Allow smoke-Pets room
+R063,Triple Quad,200,AC-Kitchen-Allow Alcohol-Pets room
+R064,Triple Quad,200,AC-Allow smoke-Allow Alcohol-Pets room
+R065,Triple Quad,200,Wifi-Kitchen-Food and beverage-Allow Alcohol
+R066,Triple Quad,180,Allow smoke-Food and beverage-Pets room
+R067,Triple Quad,140,Allow smoke
+R068,Triple Quad,200,Wifi-AC-Kitchen-Food and beverage
+R069,Triple Quad,220,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol
+R070,Triple Quad,180,AC-Allow Alcohol-Pets room
+R071,Triple Quad,200,AC-Allow smoke-Food and beverage-Pets room
+R072,Triple Quad,200,Wifi-Massage-Kitchen-Pets room
+R073,Triple Quad,220,Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R074,Triple Quad,220,Massage-AC-Kitchen-Allow smoke-Allow Alcohol
+R075,Triple Quad,180,Wifi-Massage-Food and beverage
+R076,Triple Quad,180,Wifi-Massage-Food and beverage
+R077,Triple Quad,220,Wifi-Massage-AC-Kitchen-Allow smoke
+R078,Triple Quad,260,Wifi-Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R079,Triple Quad,200,AC-Allow smoke-Food and beverage-Pets room
+R080,Triple Quad,200,Wifi-Kitchen-Allow smoke-Pets room
+R081,Triple Quad,200,Wifi-Massage-Kitchen-Food and beverage
+R082,Triple Quad,180,Food and beverage-Allow Alcohol-Pets room
+R083,Triple Quad,220,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R084,Triple Quad,200,Wifi-Food and beverage-Allow Alcohol-Pets room
+R085,Triple Quad,180,Wifi-Kitchen-Allow Alcohol
+R086,Triple Quad,220,Massage-AC-Kitchen-Allow smoke-Allow Alcohol
+R087,Triple Quad,240,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R088,Triple Quad,180,Massage-AC-Kitchen
+R089,Triple Quad,240,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R090,Triple Quad,240,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R091,Triple Quad,200,Wifi-Food and beverage-Allow Alcohol-Pets room
+R092,Triple Quad,140,Allow Alcohol
+R093,Triple Quad,180,AC-Kitchen-Allow Alcohol
+R094,Triple Quad,160,Food and beverage-Pets room
+R095,Triple Quad,220,Wifi-AC-Food and beverage-Allow Alcohol-Pets room
+R096,Triple Quad,200,AC-Kitchen-Food and beverage-Pets room
+R097,Triple Quad,180,AC-Food and beverage-Pets room
+R098,Triple Quad,200,Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R099,Triple Quad,240,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R100,Triple Quad,160,Allow Alcohol-Pets room
+R101,Triple Quad,240,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R102,Triple Quad,180,Wifi-Food and beverage-Allow Alcohol
+R103,Triple Quad,200,Wifi-Massage-Kitchen-Allow smoke
+R104,Triple Quad,180,Wifi-Kitchen-Allow smoke
+R105,Triple Quad,180,Massage-Allow smoke-Allow Alcohol
+R106,Triple Quad,260,Wifi-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R107,Triple Quad,180,Wifi-Kitchen-Food and beverage
+R108,Triple Quad,260,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R109,Triple Quad,260,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R110,Triple Quad,220,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R111,Triple Quad,240,Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R112,Triple Quad,180,Massage-Allow Alcohol-Pets room
+R113,Triple Quad,220,Wifi-Massage-Allow smoke-Allow Alcohol-Pets room
+R114,Triple Quad,160,Massage-AC
+R115,Twin,300,Wifi-Kitchen-Food and beverage-Pets room
+R116,Twin,320,Wifi-Massage-AC-Food and beverage-Pets room
+R117,Twin,340,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R118,Twin,260,Food and beverage-Allow Alcohol
+R119,Twin,360,Massage-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R120,Twin,280,Wifi-AC-Allow Alcohol
+R121,Twin,300,Wifi-Massage-Food and beverage-Allow Alcohol
+R122,Twin,280,Wifi-AC-Allow Alcohol
+R123,Twin,300,Massage-AC-Allow smoke-Allow Alcohol
+R124,Twin,280,Allow smoke-Allow Alcohol-Pets room
+R125,Twin,280,Massage-AC-Kitchen
+R126,Twin,240,AC
+R127,Twin,280,AC-Allow smoke-Allow Alcohol
+R128,Twin,340,Wifi-Massage-AC-Kitchen-Food and beverage-Pets room
+R129,Hollywood Twin Room,280,AC-Allow smoke-Allow Alcohol
+R130,Hollywood Twin Room,300,Wifi-Massage-Allow Alcohol-Pets room
+R131,Hollywood Twin Room,300,Wifi-Kitchen-Allow smoke-Food and beverage
+R132,Hollywood Twin Room,320,Wifi-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R133,Hollywood Twin Room,260,AC-Food and beverage
+R134,Hollywood Twin Room,300,Wifi-Massage-AC-Pets room
+R135,Hollywood Twin Room,300,Wifi-Massage-Kitchen-Pets room
+R136,Hollywood Twin Room,320,Wifi-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R137,Hollywood Twin Room,300,Wifi-Massage-Kitchen-Allow smoke
+R138,Hollywood Twin Room,300,Wifi-Massage-Kitchen-Allow smoke
+R139,Hollywood Twin Room,340,AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R140,Hollywood Twin Room,300,Wifi-Massage-Allow smoke-Allow Alcohol
+R141,Hollywood Twin Room,300,Massage-Allow smoke-Allow Alcohol-Pets room
+R142,Hollywood Twin Room,320,Wifi-Massage-Kitchen-Allow Alcohol-Pets room
+R143,Hollywood Twin Room,320,Wifi-Massage-Kitchen-Allow smoke-Allow Alcohol
+R144,Hollywood Twin Room,260,Wifi-AC
+R145,Hollywood Twin Room,280,Allow smoke-Food and beverage-Allow Alcohol
+R146,Hollywood Twin Room,280,AC-Kitchen-Pets room
+R147,Double-double,280,AC-Kitchen-Pets room
+R148,Double-double,300,AC-Kitchen-Allow smoke-Food and beverage
+R149,Double-double,280,Kitchen-Allow smoke-Food and beverage
+R150,Double-double,280,Kitchen-Allow Alcohol-Pets room
+R151,Double-double,300,Wifi-AC-Food and beverage-Pets room
+R152,Double-double,260,AC-Allow Alcohol
+R153,Double-double,300,Massage-AC-Allow Alcohol-Pets room
+R154,Double-double,280,Wifi-Massage-AC
+R155,Double-double,300,Wifi-Kitchen-Food and beverage-Allow Alcohol
+R156,Double-double,280,Allow smoke-Food and beverage-Allow Alcohol
+R157,Double-double,320,Wifi-Massage-Kitchen-Allow smoke-Food and beverage
+R158,Double-double,340,Wifi-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R159,Double-double,320,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol
+R160,Double-double,320,Wifi-Massage-AC-Food and beverage-Pets room
+R161,Double-double,260,AC-Allow Alcohol
+R162,Double-double,320,Wifi-Massage-AC-Kitchen-Pets room
+R163,Double-double,260,Wifi-Food and beverage
+R164,Double-double,280,Massage-AC-Kitchen
+R165,Double-double,280,Wifi-AC-Pets room
+R166,Mini Suite or Junior Suite,220,Kitchen-Allow Alcohol
+R167,Mini Suite or Junior Suite,260,AC-Kitchen-Food and beverage-Pets room
+R168,Mini Suite or Junior Suite,260,Massage-Kitchen-Allow Alcohol-Pets room
+R169,Mini Suite or Junior Suite,280,Massage-AC-Kitchen-Allow smoke-Allow Alcohol
+R170,Mini Suite or Junior Suite,280,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R171,Mini Suite or Junior Suite,280,Massage-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R172,Mini Suite or Junior Suite,280,Wifi-AC-Food and beverage-Allow Alcohol-Pets room
+R173,Mini Suite or Junior Suite,240,Massage-AC-Pets room
+R174,Mini Suite or Junior Suite,280,Wifi-Massage-Kitchen-Allow smoke-Food and beverage
+R175,Mini Suite or Junior Suite,280,Wifi-Massage-AC-Allow smoke-Allow Alcohol
+R176,Mini Suite or Junior Suite,240,AC-Allow smoke-Allow Alcohol
+R177,Mini Suite or Junior Suite,280,Wifi-AC-Kitchen-Allow Alcohol-Pets room
+R178,Mini Suite or Junior Suite,280,Wifi-Massage-Kitchen-Allow Alcohol-Pets room
+R179,Mini Suite or Junior Suite,260,AC-Kitchen-Allow smoke-Food and beverage
+R180,Mini Suite or Junior Suite,240,Massage-Allow smoke-Food and beverage
+R181,Mini Suite or Junior Suite,240,AC-Kitchen-Pets room
+R182,Mini Suite or Junior Suite,240,Wifi-Massage-Kitchen
+R183,Mini Suite or Junior Suite,280,Wifi-Kitchen-Allow smoke-Food and beverage-Pets room
+R184,President Suite,300,Wifi-AC-Allow smoke-Food and beverage-Pets room
+R185,President Suite,320,Wifi-Massage-AC-Allow smoke-Food and beverage-Pets room
+R186,President Suite,260,AC-Allow smoke-Pets room
+R187,President Suite,260,AC-Allow smoke-Food and beverage
+R188,President Suite,220,Allow smoke
+R189,President Suite,240,Wifi-Kitchen
+R190,President Suite,280,Massage-Allow smoke-Food and beverage-Allow Alcohol
+R191,President Suite,300,Wifi-Massage-AC-Kitchen-Food and beverage
+R192,President Suite,260,Massage-AC-Allow Alcohol
+R193,President Suite,280,Massage-Kitchen-Allow smoke-Allow Alcohol
+R194,President Suite,260,Wifi-Kitchen-Allow smoke
+R195,President Suite,320,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R196,President Suite,300,Massage-AC-Allow smoke-Allow Alcohol-Pets room
+R197,President Suite,340,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R198,President Suite,260,AC-Kitchen-Pets room
+R199,President Suite,280,Wifi-AC-Kitchen-Pets room
+R200,President Suite,300,Wifi-Massage-Kitchen-Allow smoke-Food and beverage
+R201,President Suite,300,Wifi-Massage-Kitchen-Allow Alcohol-Pets room
+R202,President Suite,260,Wifi-Food and beverage-Allow Alcohol
+R203,President Suite,260,Wifi-Kitchen-Pets room
+R204,President Suite,300,AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R205,President Suite,260,Massage-Food and beverage-Pets room
+R206,President Suite,280,Kitchen-Allow smoke-Allow Alcohol-Pets room
+R207,Apartments,290,Massage-Kitchen-Food and beverage
+R208,Apartments,310,AC-Allow smoke-Food and beverage-Allow Alcohol
+R209,Apartments,290,Wifi-Food and beverage-Allow Alcohol
+R210,Apartments,390,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R211,Apartments,370,Wifi-Massage-AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R212,Apartments,330,Wifi-Massage-AC-Kitchen-Pets room
+R213,Apartments,310,AC-Kitchen-Food and beverage-Pets room
+R214,Apartments,370,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R215,Apartments,290,AC-Allow smoke-Allow Alcohol
+R216,Apartments,330,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol
+R217,Apartments,290,Massage-Kitchen-Pets room
+R218,Apartments,330,Massage-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R219,Apartments,310,AC-Kitchen-Food and beverage-Pets room
+R220,Apartments,310,Massage-AC-Kitchen-Food and beverage
+R221,Apartments,310,Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R222,Apartments,390,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R223,Apartments,310,Massage-AC-Kitchen-Allow smoke
+R224,Apartments,270,Massage-Food and beverage
+R225,Apartments,250,Allow smoke
+R226,Apartments,330,Wifi-Massage-Food and beverage-Allow Alcohol-Pets room
+R227,Apartments,290,Massage-Food and beverage-Allow Alcohol
+R228,Apartments,310,Wifi-Massage-AC-Allow Alcohol
+R229,Apartments,310,Massage-AC-Allow smoke-Pets room
+R230,Apartments,290,Allow smoke-Food and beverage-Pets room
+R231,Apartments,270,Massage-Food and beverage
+R232,Apartments,310,Massage-Kitchen-Food and beverage-Pets room
+R233,Apartments,250,Allow Alcohol
+R234,Apartments,290,Wifi-Kitchen-Food and beverage
+R235,Apartments,310,Massage-Kitchen-Allow smoke-Allow Alcohol
+R236,Apartments,330,Wifi-AC-Kitchen-Food and beverage-Allow Alcohol
+R237,Apartments,290,Wifi-Allow smoke-Allow Alcohol
+R238,Apartments,290,AC-Food and beverage-Allow Alcohol
+R239,Apartments,310,Wifi-AC-Allow Alcohol-Pets room
+R240,Apartments,250,Allow smoke
+R241,Apartments,310,Wifi-AC-Allow smoke-Pets room
+R242,Apartments,310,Wifi-Massage-AC-Allow smoke
+R243,Apartments,350,Massage-AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R244,Apartments,310,Wifi-Food and beverage-Allow Alcohol-Pets room
+R245,Apartments,350,Wifi-Massage-AC-Kitchen-Food and beverage-Pets room
+R246,Apartments,310,Wifi-Massage-Allow smoke-Allow Alcohol
+R247,Apartments,330,Wifi-Massage-Kitchen-Allow smoke-Pets room
+R248,Apartments,330,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R249,Apartments,310,Massage-Allow smoke-Food and beverage-Pets room
+R250,Apartments,250,Pets room
+R251,Apartments,290,AC-Food and beverage-Pets room
+R252,Apartments,270,Kitchen-Allow Alcohol
+R253,Apartments,350,Wifi-Massage-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R254,Apartments,310,Massage-Allow smoke-Food and beverage-Pets room
+R255,Apartments,310,Wifi-Massage-Kitchen-Allow smoke
+R256,Apartments,310,Wifi-AC-Allow smoke-Pets room
+R257,Apartments,310,Massage-AC-Kitchen-Food and beverage
+R258,Apartments,290,Allow smoke-Allow Alcohol-Pets room
+R259,Apartments,310,Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R260,Apartments,310,Wifi-AC-Food and beverage-Pets room
+R261,Apartments,330,AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R262,Apartments,350,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R263,Apartments,290,Massage-AC-Food and beverage
+R264,Apartments,290,Wifi-Kitchen-Allow smoke
+R265,Apartments,250,Allow Alcohol
+R266,Apartments,330,Wifi-AC-Allow smoke-Food and beverage-Allow Alcohol
+R267,Apartments,270,Food and beverage-Pets room
+R268,Apartments,310,Wifi-Massage-Kitchen-Pets room
+R269,Apartments,270,Massage-Food and beverage
+R270,Apartments,370,Wifi-Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R271,Apartments,330,Wifi-Massage-Allow smoke-Allow Alcohol-Pets room
+R272,Apartments,310,Wifi-Massage-Allow smoke-Allow Alcohol
+R273,Apartments,290,Kitchen-Allow smoke-Food and beverage
+R274,Apartments,330,Massage-AC-Allow smoke-Allow Alcohol-Pets room
+R275,Apartments,350,Massage-AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R276,Apartments,370,Wifi-Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R277,Apartments,310,Wifi-Massage-Allow smoke-Pets room
+R278,Apartments,370,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R279,Apartments,330,Wifi-Massage-Allow smoke-Allow Alcohol-Pets room
+R280,Apartments,270,AC-Pets room
+R281,Apartments,310,Wifi-AC-Food and beverage-Allow Alcohol
+R282,Apartments,330,Wifi-Kitchen-Allow smoke-Food and beverage-Pets room
+R283,Apartments,310,Wifi-Massage-AC-Kitchen
+R284,Apartments,270,AC-Allow Alcohol
+R285,Apartments,290,Wifi-Massage-Food and beverage
+R286,Apartments,350,Wifi-Massage-AC-Food and beverage-Allow Alcohol-Pets room
+R287,Apartments,330,Wifi-Massage-AC-Allow Alcohol-Pets room
+R288,Apartments,290,Massage-Kitchen-Allow smoke
+R289,Apartments,330,Wifi-AC-Kitchen-Allow smoke-Food and beverage
+R290,Apartments,330,Massage-AC-Kitchen-Food and beverage-Pets room
+R291,Apartments,350,Wifi-Massage-AC-Food and beverage-Allow Alcohol-Pets room
+R292,Apartments,290,Wifi-Massage-Allow smoke
+R293,Apartments,290,Massage-Allow Alcohol-Pets room
+R294,Apartments,330,Massage-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R295,Apartments,270,Massage-Kitchen
+R296,Apartments,310,Wifi-Kitchen-Food and beverage-Allow Alcohol
+R297,Apartments,290,Massage-AC-Pets room
+R298,Apartments,310,Wifi-Massage-Kitchen-Allow Alcohol
+R299,Apartments,250,Food and beverage
+R300,Apartments,290,Massage-Allow smoke-Allow Alcohol
+R301,Apartments,250,Pets room
+R302,Apartments,350,Wifi-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R303,Apartments,290,Wifi-Kitchen-Food and beverage
+R304,Apartments,290,Wifi-Massage-AC
+R305,Apartments,350,Wifi-Massage-AC-Food and beverage-Allow Alcohol-Pets room
+R306,Apartments,330,Massage-AC-Kitchen-Allow smoke-Allow Alcohol
+R307,Apartments,330,Wifi-Massage-AC-Allow smoke-Allow Alcohol
+R308,Apartments,350,Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R309,Apartments,350,Massage-AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R310,Apartments,350,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R311,Apartments,330,Wifi-AC-Allow smoke-Food and beverage-Pets room
+R312,Apartments,330,Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R313,Apartments,270,Massage-Food and beverage
+R314,Apartments,330,Wifi-Massage-Kitchen-Allow smoke-Allow Alcohol
+R315,Apartments,290,Wifi-Massage-Food and beverage
+R316,Apartments,310,Wifi-Kitchen-Allow smoke-Food and beverage
+R317,Apartments,290,Wifi-AC-Kitchen
+R318,Apartments,310,Wifi-AC-Allow smoke-Allow Alcohol
+R319,Apartments,370,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R320,Apartments,310,Massage-AC-Allow smoke-Allow Alcohol
+R321,Apartments,290,AC-Allow Alcohol-Pets room
+R322,Apartments,290,Wifi-Massage-Allow Alcohol
+R323,Apartments,270,Wifi-Allow smoke
+R324,Apartments,290,Allow smoke-Allow Alcohol-Pets room
+R325,Apartments,330,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R326,Apartments,310,Massage-AC-Food and beverage-Allow Alcohol
+R327,Apartments,370,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R328,Apartments,330,AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R329,Apartments,350,Wifi-Massage-AC-Allow smoke-Allow Alcohol-Pets room
+R330,Apartments,310,Wifi-Allow smoke-Food and beverage-Allow Alcohol
+R331,Apartments,290,Massage-AC-Food and beverage
+R332,Apartments,350,Massage-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R333,Apartments,330,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol
+R334,Apartments,310,Massage-Kitchen-Allow smoke-Pets room
+R335,Apartments,330,Wifi-Massage-Kitchen-Allow smoke-Allow Alcohol
+R336,Apartments,350,Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R337,Apartments,330,Wifi-Massage-Kitchen-Allow smoke-Allow Alcohol
+R338,Apartments,330,Wifi-Massage-AC-Food and beverage-Allow Alcohol
+R339,Apartments,350,Wifi-Massage-AC-Kitchen-Allow Alcohol-Pets room
+R340,Apartments,350,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R341,Apartments,310,Wifi-Allow smoke-Food and beverage-Pets room
+R342,Apartments,330,AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R343,Apartments,250,Pets room
+R344,Apartments,290,Wifi-Allow Alcohol-Pets room
+R345,Apartments,290,Massage-Kitchen-Food and beverage
+R346,Apartments,310,Massage-AC-Kitchen-Food and beverage
+R347,Apartments,310,Wifi-Massage-Kitchen-Allow Alcohol
+R348,Apartments,310,Massage-AC-Food and beverage-Pets room
+R349,Apartments,310,Massage-AC-Kitchen-Pets room
+R350,Apartments,270,Wifi-AC
+R351,Apartments,310,Wifi-Massage-Kitchen-Allow Alcohol
+R352,Apartments,290,Wifi-AC-Allow smoke
+R353,Apartments,310,Wifi-Allow smoke-Allow Alcohol-Pets room
+R354,Apartments,370,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R355,Apartments,330,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R356,Apartments,330,Wifi-AC-Kitchen-Food and beverage-Pets room
+R357,Apartments,350,Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R358,Apartments,310,Massage-AC-Allow Alcohol-Pets room
+R359,Apartments,310,Wifi-AC-Kitchen-Food and beverage
+R360,Apartments,330,Wifi-Massage-AC-Allow smoke-Food and beverage
+R361,Apartments,350,Wifi-Massage-AC-Kitchen-Allow Alcohol-Pets room
+R362,Apartments,330,Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R363,Apartments,310,Massage-AC-Allow smoke-Allow Alcohol
+R364,Apartments,310,AC-Kitchen-Allow Alcohol-Pets room
+R365,Apartments,310,Wifi-Massage-AC-Pets room
+R366,Apartments,330,Wifi-Massage-AC-Allow smoke-Allow Alcohol
+R367,Apartments,330,Wifi-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R368,Apartments,290,Kitchen-Food and beverage-Allow Alcohol
+R369,Apartments,290,Allow smoke-Food and beverage-Allow Alcohol
+R370,Apartments,330,Wifi-AC-Kitchen-Allow smoke-Allow Alcohol
+R371,Adjoining rooms,350,Wifi-Food and beverage-Pets room
+R372,Adjoining rooms,390,Massage-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R373,Adjoining rooms,370,Wifi-AC-Kitchen-Food and beverage
+R374,Adjoining rooms,410,Wifi-Massage-AC-Kitchen-Allow smoke-Pets room
+R375,Adjoining rooms,330,Massage-Allow Alcohol
+R376,Adjoining rooms,370,Massage-Kitchen-Food and beverage-Pets room
+R377,Adjoining rooms,410,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R378,Adjoining rooms,410,Wifi-Massage-AC-Kitchen-Food and beverage-Pets room
+R379,Adjoining rooms,350,Wifi-Massage-Food and beverage
+R380,Adjoining rooms,370,Massage-Allow smoke-Allow Alcohol-Pets room
+R381,Adjoining rooms,410,Wifi-Massage-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R382,Adjoining rooms,330,Allow smoke-Allow Alcohol
+R383,Adjoining rooms,330,Wifi-AC
+R384,Adjoining rooms,390,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R385,Adjoining rooms,390,Wifi-Massage-Allow smoke-Food and beverage-Allow Alcohol
+R386,Adjoining rooms,410,Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R387,Adjoining rooms,350,Kitchen-Allow smoke-Food and beverage
+R388,Adjoining rooms,410,Wifi-Massage-AC-Food and beverage-Allow Alcohol-Pets room
+R389,Adjoining rooms,350,Wifi-AC-Kitchen
+R390,Adjacent rooms,370,Wifi-Allow smoke-Food and beverage-Pets room
+R391,Adjacent rooms,390,Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R392,Adjacent rooms,390,Massage-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R393,Adjacent rooms,350,Wifi-Kitchen-Allow smoke
+R394,Adjacent rooms,370,AC-Allow smoke-Food and beverage-Pets room
+R395,Adjacent rooms,350,Wifi-Massage-Kitchen
+R396,Adjacent rooms,370,AC-Allow smoke-Food and beverage-Allow Alcohol
+R397,Adjacent rooms,370,Wifi-AC-Allow Alcohol-Pets room
+R398,Adjacent rooms,350,Kitchen-Food and beverage-Pets room
+R399,Adjacent rooms,350,Kitchen-Allow smoke-Pets room
+R400,Adjacent rooms,350,Kitchen-Allow Alcohol-Pets room
+R401,Adjacent rooms,390,Wifi-Massage-AC-Kitchen-Food and beverage
+R402,Adjacent rooms,330,Massage-Allow smoke
+R403,Adjacent rooms,410,Wifi-Massage-AC-Allow smoke-Food and beverage-Pets room
+R404,Adjacent rooms,390,Massage-AC-Kitchen-Allow smoke-Food and beverage
+R405,Adjacent rooms,390,Wifi-AC-Allow smoke-Food and beverage-Allow Alcohol
+R406,Adjacent rooms,410,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Pets room
+R407,Adjacent rooms,390,AC-Kitchen-Food and beverage-Allow Alcohol-Pets room
+R408,Adjacent rooms,350,Wifi-Allow Alcohol-Pets room
+R409,Adjacent rooms,390,Wifi-AC-Allow smoke-Allow Alcohol-Pets room
+R410,Adjacent rooms,390,Wifi-Massage-AC-Allow smoke-Food and beverage
+R411,Adjacent rooms,370,Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R412,Adjacent rooms,370,Massage-Kitchen-Allow smoke-Food and beverage
+R413,Adjacent rooms,350,AC-Food and beverage-Allow Alcohol
+R414,Villa,380,Massage-Kitchen-Pets room
+R415,Villa,420,Wifi-Massage-AC-Food and beverage-Pets room
+R416,Villa,420,Wifi-Massage-Food and beverage-Allow Alcohol-Pets room
+R417,Villa,380,Wifi-Massage-Allow smoke
+R418,Villa,400,AC-Allow smoke-Allow Alcohol-Pets room
+R419,Villa,360,Massage-Kitchen
+R420,Villa,400,Wifi-Massage-Kitchen-Allow Alcohol
+R421,Villa,440,Wifi-AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R422,Villa,380,Wifi-Allow smoke-Food and beverage
+R423,Villa,460,Wifi-Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R424,Villa,380,Wifi-Massage-AC
+R425,Villa,460,Wifi-Massage-AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R426,Villa,360,Wifi-Massage
+R427,Villa,400,Wifi-Massage-Food and beverage-Allow Alcohol
+R428,Villa,360,AC-Pets room
+R429,Villa,400,Wifi-Kitchen-Allow smoke-Allow Alcohol
+R430,Villa,380,Wifi-Allow Alcohol-Pets room
+R431,Villa,360,Massage-Allow Alcohol
+R432,Villa,400,Kitchen-Allow smoke-Allow Alcohol-Pets room
+R433,Villa,400,Wifi-Massage-Allow smoke-Food and beverage
+R434,Villa,400,Wifi-Massage-AC-Kitchen
+R435,Villa,400,Wifi-Massage-Kitchen-Allow Alcohol
+R436,Villa,440,Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R437,Villa,380,Allow smoke-Food and beverage-Pets room
+R438,Villa,440,Wifi-Massage-AC-Allow smoke-Food and beverage-Allow Alcohol
+R439,Villa,420,Wifi-Massage-AC-Kitchen-Allow smoke
+R440,Executive Floor,390,Wifi-Kitchen
+R441,Executive Floor,430,Wifi-Allow smoke-Food and beverage-Allow Alcohol
+R442,Executive Floor,450,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R443,Executive Floor,450,Wifi-AC-Allow smoke-Food and beverage-Allow Alcohol
+R444,Executive Floor,470,Wifi-Massage-AC-Kitchen-Allow smoke-Food and beverage
+R445,Executive Floor,450,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R446,Executive Floor,430,Wifi-AC-Food and beverage-Allow Alcohol
+R447,Executive Floor,410,Food and beverage-Allow Alcohol-Pets room
+R448,Executive Floor,430,Massage-AC-Allow smoke-Pets room
+R449,Executive Floor,410,Massage-Food and beverage-Allow Alcohol
+R450,Executive Floor,430,Wifi-Massage-AC-Food and beverage
+R451,Executive Floor,430,Wifi-Allow smoke-Food and beverage-Pets room
+R452,Executive Floor,410,Wifi-AC-Food and beverage
+R453,Executive Floor,470,Wifi-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R454,Executive Floor,470,Wifi-Massage-AC-Allow smoke-Food and beverage-Pets room
+R455,Executive Floor,450,Wifi-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R456,Executive Floor,430,Massage-Kitchen-Allow smoke-Pets room
+R457,Executive Floor,450,Wifi-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R458,Executive Floor,450,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R459,Executive Floor,430,Wifi-Kitchen-Allow smoke-Pets room
+R460,Executive Floor,410,Kitchen-Food and beverage-Allow Alcohol
+R461,Executive Floor,470,Wifi-AC-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R462,Executive Floor,430,Massage-AC-Allow smoke-Food and beverage
+R463,Executive Floor,450,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R464,Executive Floor,410,Massage-AC-Pets room
+R465,Executive Floor,390,Wifi-Food and beverage
+R466,Executive Floor,430,Massage-Food and beverage-Allow Alcohol-Pets room
+R467,Executive Floor,410,AC-Kitchen-Allow smoke
+R468,Executive Floor,370,Allow smoke
+R469,Executive Floor,450,Wifi-Massage-AC-Kitchen-Allow smoke
+R470,Executive Floor,370,Wifi
+R471,Executive Floor,430,Massage-AC-Allow smoke-Pets room
+R472,Executive Floor,390,Wifi-Pets room
+R473,Executive Floor,410,Wifi-Kitchen-Pets room
+R474,Executive Floor,410,Massage-AC-Allow smoke
+R475,Executive Floor,410,Massage-Allow Alcohol-Pets room
+R476,Executive Floor,390,AC-Allow smoke
+R477,Executive Floor,410,AC-Kitchen-Allow Alcohol
+R478,Executive Floor,410,Massage-Food and beverage-Allow Alcohol
+R479,Executive Floor,450,Wifi-AC-Food and beverage-Allow Alcohol-Pets room
+R480,Executive Floor,390,AC-Allow smoke
+R481,Executive Floor,390,Wifi-Massage
+R482,Executive Floor,410,Massage-Food and beverage-Pets room
+R483,Executive Floor,450,AC-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R484,Executive Floor,450,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R485,Executive Floor,430,AC-Kitchen-Allow smoke-Food and beverage
+R486,Executive Floor,470,Massage-Kitchen-Allow smoke-Food and beverage-Allow Alcohol-Pets room
+R487,Executive Floor,450,AC-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R488,Executive Floor,430,Wifi-Massage-Allow smoke-Allow Alcohol
+R489,Executive Floor,450,AC-Kitchen-Allow smoke-Food and beverage-Pets room
+R490,Executive Floor,410,Wifi-Massage-AC
+R491,Executive Floor,430,Massage-Allow smoke-Allow Alcohol-Pets room
+R492,Executive Floor,450,Wifi-Massage-Kitchen-Food and beverage-Pets room
+R493,Executive Floor,430,Wifi-Massage-Kitchen-Allow smoke
+R494,Executive Floor,450,Wifi-Massage-Kitchen-Allow Alcohol-Pets room
+R495,Executive Floor,430,Massage-Kitchen-Allow Alcohol-Pets room
+R496,Executive Floor,410,Wifi-Allow Alcohol-Pets room
+R497,Executive Floor,390,AC-Allow smoke
+R498,Executive Floor,430,Massage-AC-Food and beverage-Allow Alcohol
+R499,Executive Floor,450,Wifi-Kitchen-Allow smoke-Food and beverage-Allow Alcohol
+R500,Executive Floor,450,Massage-Kitchen-Allow smoke-Allow Alcohol-Pets room
+R501,Executive Floor,510,Wifi-Massage-AC-kitchen-Allow smoke-food and beverage-Allow Alcohol-Pets room

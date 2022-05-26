@@ -1,0 +1,13 @@
+Single,80
+Double,100
+Triple Quad,120
+Twin,220
+Hollywood Twin Room,220
+Double-double,220
+Mini Suite or Junior Suite,180
+President Suite,200
+Apartments,230
+Adjoining rooms,290
+Adjacent rooms,290
+Villa,320
+Executive Floor,350
